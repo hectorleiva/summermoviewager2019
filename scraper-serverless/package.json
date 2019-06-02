@@ -1,0 +1,22 @@
+{
+  "name": "summovwag-serverless",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "@serverless-chrome/lambda": "^1.0.0-55",
+    "aws-sdk": "^2.448.0",
+    "cheerio": "^1.0.0-rc.3",
+    "chrome-aws-lambda": "^1.13.0",
+    "chrome-remote-interface": "^0.27.1",
+    "puppeteer": "^1.15.0",
+    "serverless-plugin-chrome": "^1.0.0-55",
+    "superagent": "^5.0.5"
+  },
+  "devDependencies": {
+    "chrome-launcher": "^0.10.7",
+    "serverless-offline": "^4.9.4"
+  },
+  "engines": {
+    "node": "8.10.0"
+  }
+}
